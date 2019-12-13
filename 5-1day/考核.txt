@@ -1,0 +1,14 @@
+docker + zookeeper
+
+
+
+Hadoop集群，hdfs传个文件，Wordcount
+
+
+
+crwaler -> bs -> mysql(docker).cassadra
+
+
+
+
+crawler -> bs -> sql -> hadoop -> print ret

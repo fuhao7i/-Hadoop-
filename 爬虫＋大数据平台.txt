@@ -1,0 +1,14 @@
+1 Git
+https://www.runoob.com/git/git-tutorial.html
+
+2 Docker
+http://wiki.jikexueyuan.com/list/docker/
+
+3 Python3
+https://www.runoob.com/python3/python3-tutorial.html
+
+4 ≈¿≥Ê£® ”∆µ£©
+https://www.bilibili.com/video/av42741352/?p=1
+
+5 Hadoop£® ”∆µ£©
+https://www.bilibili.com/video/av15712148?from=search&seid=15179368766373841662
